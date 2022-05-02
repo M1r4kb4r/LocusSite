@@ -1,6 +1,19 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,500;1,800&display=swap');
+
+/* MAIN-SITE */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;;
+}
+
+.container {
+    max-width: 1600px;
+    margin: 0 auto;
+}
